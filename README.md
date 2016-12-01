@@ -50,4 +50,4 @@ This is a guidance and index for new starters, and we will continue to keep it u
 * [Official Android documents](https://source.android.com/source/index.html "5 Stars")
 
 ## Feedbacks
-* Any issues, kindly feedback to us [here](https://github.com/khadas/guide/issues).
+* If any issues, kindly let us know at: hello@khadas.com
