@@ -9,12 +9,12 @@ This is a guidance and index for new starters, and we will continue to keep it u
 
 ## Getting Started
 * [TBD: Using Vim: Hardware describes]()
-* [Schematic](https://github.com/khadas/documents/blob/master/Vim_V11_Sch.pdf)
-* [PCB Drawing](https://github.com/khadas/documents/blob/master/Vim_V11_Drawing.pdf)
+* [Schematic](https://github.com/khadas/documents/blob/master/Vim_V12_Sch.pdf)
+* [PCB Drawing](https://github.com/khadas/documents/blob/master/Vim_V12_Drawing.pdf)
 * [2D Drawing (DXF format)](http://www.mediafire.com/file/u6d9amb2904ctnm/Vim.dxf)
 * [Interfaces Description](https://github.com/khadas/documents/blob/master/Vim_Interfaces.jpg)
 * [Extra Power Supply](https://github.com/khadas/documents/blob/master/ExtraPowerInput.md)
-* [TBD: GPIO-Pinout](https://github.com/khadas/documents/blob/master/Vim_Pinout.jpg)
+* [GPIO-Pinout](https://github.com/khadas/documents/blob/master/Vim_Pinout.jpg)
 
 ## Bootcamp
 * [Upgrade Via an USB Cable](https://github.com/khadas/documents/blob/master/UpgradeViaUSBCable.md)
