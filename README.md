@@ -2,6 +2,8 @@ Instructions
 ============
 This is a guidance and index for new starters, and we will continue to keep it updated.
 
+**Note: We've moved this to Khadas website, please move forward to [Khadas Docs](http:docs.khadas.com) for the latest documentations.**
+
 ## Overview
 * Vim is an open source code SBC platform and all source codes are released at [here](https://www.github.com/khadas).
 * [Vim Specifications](https://github.com/khadas/documents/blob/master/Vim_Specs.pdf)
